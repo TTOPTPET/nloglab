@@ -1,0 +1,11 @@
+C:\Users\Максим\Desktop\nloglab\nloglab\bin\Debug\NLog.config
+C:\Users\Максим\Desktop\nloglab\nloglab\bin\Debug\nloglab.exe.config
+C:\Users\Максим\Desktop\nloglab\nloglab\bin\Debug\nloglab.exe
+C:\Users\Максим\Desktop\nloglab\nloglab\bin\Debug\nloglab.pdb
+C:\Users\Максим\Desktop\nloglab\nloglab\bin\Debug\NLog.dll
+C:\Users\Максим\Desktop\nloglab\nloglab\bin\Debug\NLog.xml
+C:\Users\Максим\Desktop\nloglab\nloglab\obj\Debug\nloglab.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\nloglab\nloglab\obj\Debug\nloglab.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\nloglab\nloglab\obj\Debug\nloglab.csproj.CopyComplete
+C:\Users\Максим\Desktop\nloglab\nloglab\obj\Debug\nloglab.exe
+C:\Users\Максим\Desktop\nloglab\nloglab\obj\Debug\nloglab.pdb
